@@ -28,12 +28,15 @@ for the filtered cities.
 
 
 
-- A map that shows the directions between multiple cities for customers’ travel itinerary will be displayed with the details of the nearest hotel.
+- A map that shows the directions between multiple cities for customers’ travel itinerary will be displayed.
 
 
 
 ![alt text](image/WeatherPy_travel_map.png)
 
+
+
+- A map that shows the directions between multiple cities with the details of the nearest hotel for customers’ travel itinerary will be also be displayed if selected by the cutomer.
 
 
 
