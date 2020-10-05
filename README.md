@@ -12,7 +12,7 @@ Python, citipy, Pandas, Matplotlib, SciPy, Google Maps API, Google Places API, O
 - The Travel App allows customers to search for locations they want to travel based on their temperature preferences. 
 
 - Once the customers have filtered the database (DataFrame) based on their temperature preferences, a heatmap will be showed to them for the maximum temperature 
-for the filtered cities.
+for the filtered cities around the world.
 
 
 ![alt text](image/map_markers.png)
@@ -20,7 +20,7 @@ for the filtered cities.
 
 - A notation is in the search criteria to indicate if it is raining or snowing for customers who are making travel decisions in real-time.
 
-- Now that the map have all the cities the customer wants to travel to, they will need to find a hotel to stay in the city.
+- A weather description to the pop-up markers will be diaplayed for customers so that they know what the weather is as they are traveling.
 
 
 
@@ -41,3 +41,5 @@ for the filtered cities.
 
 
 ![alt text](image/WeatherPy_travel_map_markers.png)
+
+
