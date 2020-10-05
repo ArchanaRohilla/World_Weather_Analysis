@@ -20,7 +20,7 @@ for the filtered cities around the world.
 
 - A notation is in the search criteria to indicate if it is raining or snowing for customers who are making travel decisions in real-time.
 
-- A weather description to the pop-up markers will be diaplayed for customers so that they know what the weather is as they are traveling.
+- A weather description to the pop-up markers will be displayed for customers so that they know what the weather is as they are traveling.
 
 
 
@@ -36,7 +36,7 @@ for the filtered cities around the world.
 
 
 
-- A map that shows the directions between multiple cities with the details of the nearest hotel for customers’ travel itinerary will be also be displayed if selected by the cutomer.
+- A map that shows the directions between multiple cities with the details of the nearest hotel for customers’ travel itinerary will be also be displayed if selected by the customer.
 
 
 
